@@ -1,0 +1,37 @@
+.greeting{
+    margin-top: 20px;
+    height: 200px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 8px;
+    background-blend-mode: saturation;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+/* google fonts */
+.roboto-regular {
+    font-family: "Roboto", serif;
+    font-style: normal;
+    font-size: 1em;
+    font-weight: 500;
+}
+.userName{
+    font-size: 1em;
+    font-weight: 500;
+}
+.Student{
+    width: 30%;
+    display: flex;
+    justify-content: space-between;
+}
+.ProfilePhoto{
+    height: 180px;
+    width: 180px;
+    background-color: red;
+}
+.controls{
+    height: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
